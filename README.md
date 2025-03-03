@@ -21,6 +21,3 @@ Gestión de dulces, chocolates y bebidas.
 - **Registro de ventas**: Control de ventas asegurando la disponibilidad de productos.
 - **Carrito de compras**: Permite agregar y quitar productos antes de finalizar la compra.
 - **Reportes**: Generación de reportes de productos en existencia y ventas por fecha, semana o mes.
-
-Este proyecto fue desarrollado durante la Experiencia Educativa de **Programación** de la **Licenciatura en Ingeniería de Software**, en el periodo **Febrero - Julio 2022**.
-📄 **Nota:** El repositorio incluye el código fuente, diagramas UML y el manual de usuario.
